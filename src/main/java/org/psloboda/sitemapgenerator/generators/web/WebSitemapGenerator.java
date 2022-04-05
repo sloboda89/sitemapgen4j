@@ -1,9 +1,7 @@
 package org.psloboda.sitemapgenerator.generators.web;
 
-import com.psloboda.sitemapgenerator.generators.*;
 import org.psloboda.sitemapgenerator.generators.*;
 import org.psloboda.sitemapgenerator.utils.UrlUtils;
-import com.psv.sitemapgenerator.generators.*;
 import org.psloboda.sitemapgenerator.utils.W3CDateTimeFormatter;
 
 import java.io.File;

@@ -174,7 +174,7 @@ public class GoogleVideoSitemapUrl extends WebSitemapUrl {
          * content. A single video could have several tags, although it might
          * belong to only one category. For example, a video about grilling food
          * may belong in the Grilling category, but could be tagged "steak",
-         * "meat", "summer", and "outdoor". Create a new <video:tag> element for
+         * "meat", "summer", and "outdoor". Create a new &lt;video:tag&gt; element for
          * each tag associated with a video. A maximum of 32 tags is permitted.
          */
         public Options tags(List<String> tags) {
@@ -188,7 +188,7 @@ public class GoogleVideoSitemapUrl extends WebSitemapUrl {
          * content. A single video could have several tags, although it might
          * belong to only one category. For example, a video about grilling food
          * may belong in the Grilling category, but could be tagged "steak",
-         * "meat", "summer", and "outdoor". Create a new <video:tag> element for
+         * "meat", "summer", and "outdoor". Create a new &lt;video:tag&gt; element for
          * each tag associated with a video. A maximum of 32 tags is permitted.
          */
         public Options tags(Iterable<String> tags) {
@@ -205,7 +205,7 @@ public class GoogleVideoSitemapUrl extends WebSitemapUrl {
          * content. A single video could have several tags, although it might
          * belong to only one category. For example, a video about grilling food
          * may belong in the Grilling category, but could be tagged "steak",
-         * "meat", "summer", and "outdoor". Create a new <video:tag> element for
+         * "meat", "summer", and "outdoor". Create a new &lt;video:tag&gt; element for
          * each tag associated with a video. A maximum of 32 tags is permitted.
          */
         public Options tags(String... tags) {

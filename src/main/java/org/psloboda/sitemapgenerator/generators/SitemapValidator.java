@@ -31,8 +31,7 @@ public class SitemapValidator {
     //TODO confirm correct host
     //TODO confirm UTF-8
 
-    //TODO support Mobile/Geo/Video/Code/News (sitemap.xsd doesn't support them)
-    //TODO confirm mobile restrictions: no non-mobile urls
+    //TODO support Video/News (sitemap.xsd doesn't support them)
     //TODO confirm news restrictions: 3 days, 1000 URLs
     //TODO video restrictions: title, player_loc/content_loc, no non-video urls
     //IMO news should have no non-news urls, geo should have no non-geo urls, code should have no non-code urls

@@ -1,11 +1,9 @@
 package org.psloboda.sitemapgenerator.generators.google.video;
 
-import com.psloboda.sitemapgenerator.generators.*;
 import org.psloboda.sitemapgenerator.generators.*;
 import org.psloboda.sitemapgenerator.utils.Constants;
 import org.psloboda.sitemapgenerator.utils.UrlUtils;
 import org.psloboda.sitemapgenerator.utils.W3CDateTimeFormatter;
-import com.psv.sitemapgenerator.generators.*;
 
 import java.io.File;
 import java.net.URL;

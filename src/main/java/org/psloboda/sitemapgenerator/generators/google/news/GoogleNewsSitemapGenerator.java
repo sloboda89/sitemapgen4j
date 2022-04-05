@@ -1,7 +1,5 @@
 package org.psloboda.sitemapgenerator.generators.google.news;
 
-import com.psloboda.sitemapgenerator.generators.*;
-import com.psv.sitemapgenerator.generators.*;
 import org.psloboda.sitemapgenerator.exceptions.SitemapGeneratorException;
 import org.psloboda.sitemapgenerator.generators.*;
 import org.psloboda.sitemapgenerator.utils.W3CDateTimeFormatter;
